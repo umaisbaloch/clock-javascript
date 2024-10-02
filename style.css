@@ -1,0 +1,13 @@
+
+body {
+    background-color: black;
+}
+
+/* time coloring */
+.time{
+    color: orange;
+}
+
+.clock-title{
+    color: rgb(41, 41, 201);
+}
